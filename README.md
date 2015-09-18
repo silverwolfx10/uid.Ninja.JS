@@ -1,2 +1,3 @@
-# uid.Ninja.JS
+### $uid
+
 Retorna um identificador unico
